@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SQLite forensic lens">
+  <rect width="64" height="64" rx="12" fill="#111a15"/>
+  <ellipse cx="32" cy="18" rx="17" ry="8" fill="#5eead4"/>
+  <path d="M15 18v19c0 4.4 7.6 8 17 8s17-3.6 17-8V18" fill="none" stroke="#ccfbf1" stroke-width="4"/>
+  <path d="M15 28c0 4.4 7.6 8 17 8s17-3.6 17-8" fill="none" stroke="#ccfbf1" stroke-width="4"/>
+  <circle cx="43" cy="43" r="9" fill="#f59e0b" stroke="#fff7ed" stroke-width="4"/>
+  <path d="m49 49 7 7" stroke="#fff7ed" stroke-linecap="round" stroke-width="5"/>
+  <path d="M28 18h8M24 28h16M27 38h10" stroke="#0f2922" stroke-linecap="round" stroke-width="3"/>
+</svg>
